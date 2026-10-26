@@ -1,5 +1,7 @@
 # NEYTHAL: saree house storefront (front-end demo)
 
+**Live site:** https://sareeshopui.vercel.app
+
 Vite + React 19 + TypeScript + Tailwind CSS 4 + Motion + React Router. No backend: checkout and accounts are demos.
 
     npm install
